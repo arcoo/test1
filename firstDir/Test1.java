@@ -18,4 +18,10 @@ public class Test1
 	{
 	}
 	
+	
+	// thrid commit on master branch
+	int dupa()
+	{
+	}
+	
 } 
