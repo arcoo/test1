@@ -11,5 +11,11 @@ public class Test1
 	int get()
 	{
 	}
+
+
+	// second fix on testBranch
+	int set()
+	{
+	}
 	
 } 
