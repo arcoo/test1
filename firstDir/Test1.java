@@ -38,5 +38,10 @@ public class Test1
 	int fix_dupa()
 	{
 	}
+
+	// fix #9
+	int fix9()
+	{
+	}
 	
 } 
