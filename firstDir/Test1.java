@@ -23,5 +23,10 @@ public class Test1
 	int dupa()
 	{
 	}
+
+	// concurrent fix from test1_copy
+	int fix_copy()
+	{
+	}
 	
 } 
