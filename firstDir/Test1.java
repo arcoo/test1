@@ -49,5 +49,10 @@ public class Test1
 	{
 	}
 	
+	// fix #11
+	int fix10()
+	{
+	}
+	
 	
 } 
