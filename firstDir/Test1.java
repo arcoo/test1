@@ -24,4 +24,9 @@ public class Test1
 	{
 	}
 	
+	// concurent fix from test1
+	int fix()
+	{
+	}
+	
 } 
